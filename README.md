@@ -1,5 +1,7 @@
 # MHGU Palico No Aggro / 随从猫无仇恨 v0.1.0
 
+[下载安装包](https://github.com/Akumi-xu/MHGU-Palico-No-Aggro/releases/download/v0.1.0/MHGU_PC_Palico_No_Aggro_v0.1.0.zip) · [版本与历史发布](https://github.com/Akumi-xu/MHGU-Palico-No-Aggro/releases)
+
 Clear AI Palico hate and exclude companions from monster target selection in offline solo hunts. Controlled Prowlers remain valid player targets. Incidental / area damage still applies.
 
 离线单人时清除AI随从猫仇恨，并在怪物选定/提交目标时排除AI猫。兼容原版零至两只随从和单人三随从猫。主控猎猫照常被攻击；猫的攻击、支援及力尽恢复仍由原版处理。
@@ -50,3 +52,5 @@ AI随从为原生目标类型2，主控猎猫属于玩家类型1。B70A4还用�
 ## 致谢
 
 使用 Fexty12573 的 [Forge](https://github.com/Fexty12573/forge) / mhgu-forge，Codex协助实现与测试。安装包仅包含自行构建插件与说明；源码不含游戏文件、生成C、存档或密钥。
+
+仓库保存展开的源码与构建材料；安装包统一从 Release 下载。历史版本及标签保持原样。

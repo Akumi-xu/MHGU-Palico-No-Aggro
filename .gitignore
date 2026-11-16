@@ -2,3 +2,7 @@
 *.nro
 *.exe
 __pycache__/
+
+/02_build/
+**/target/
+*.so
