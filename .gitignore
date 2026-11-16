@@ -1,0 +1,4 @@
+/target/
+*.nro
+*.exe
+__pycache__/
