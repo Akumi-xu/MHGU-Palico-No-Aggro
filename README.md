@@ -1,6 +1,6 @@
 # MHGU Palico No Aggro / 随从猫无仇恨 v0.1.0
 
-[下载安装包](https://github.com/Akumi-xu/MHGU-Palico-No-Aggro/releases/download/v0.1.0/MHGU_PC_Palico_No_Aggro_v0.1.0.zip) · [版本与历史发布](https://github.com/Akumi-xu/MHGU-Palico-No-Aggro/releases)
+[下载安装包](https://github.com/Akumi-xu/MHGU-Palico-No-Aggro/releases/download/v0.1.0/MHGU_Palico_No_Aggro_v0.1.0-Recomp.zip) · [版本与历史发布](https://github.com/Akumi-xu/MHGU-Palico-No-Aggro/releases)
 
 Clear AI Palico hate and exclude companions from monster target selection in offline solo hunts. Controlled Prowlers remain valid player targets. Incidental / area damage still applies.
 
